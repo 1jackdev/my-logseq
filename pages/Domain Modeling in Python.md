@@ -19,6 +19,6 @@
 	-
 - What is a Domain Model?
 	- "The problem you're trying to solve"
-	-
+	- The domain model is the mental map that business owners have of their businesses. Jargon arises naturally among people who are collaborating on complex systems.
 - References
 	- [[Message Bus Dynamic Docs]]
