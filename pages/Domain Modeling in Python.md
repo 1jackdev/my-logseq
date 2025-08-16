@@ -21,7 +21,8 @@
 	- "The problem you're trying to solve"
 	- The domain model is the mental map that business owners have of their businesses. Jargon arises naturally among people who are collaborating on complex systems.
 - Value Objects
-	- Whenever we have a business concept that has data but no identity
-	- its a domain object that is uniquely identified by the data it holds; we usually make them immutable:
+	- For whenever we have a business concept that has data but no identity
+	- a domain object that is uniquely identified by the data it holds; usually immutable
+		- at sennder, a line item in AR/AP
 - References
 	- [[Message Bus Dynamic Docs]]
