@@ -20,14 +20,14 @@
 - What is a Domain Model?
 	- "The problem you're trying to solve"
 	- The domain model is the mental map that business owners have of their businesses. Jargon arises naturally among people who are collaborating on complex systems.
-- Values
-	- For whenever we have a business concept that has data but no identity, we use value objects
+- Value Objects
 	- a domain object that is uniquely identified by the data it holds; usually immutable
+	- For whenever we have a business concept that has data but no identity
 	- Using dataclasses
 		- dataclasses (or namedtuples) give us *value equality*
 			- Two objects with identical values are *equal*.
 - Entities
-	- unlike Values
+	- can change values
 	-
 	-
 - References
