@@ -24,7 +24,7 @@
 	- a domain object that is uniquely identified by the data it holds; usually immutable
 	- For whenever we have a business concept that has data but no identity
 	- Using dataclasses
-		- dataclasses (or namedtuples) give us *value equality*
+		- dataclasses (or namedtuples) give us *value equality* with`@frozen=True`
 			- Two objects with identical values are *equal*.
 	- at sennder, this would be a Line Item. They cannot change.
 - Entities
