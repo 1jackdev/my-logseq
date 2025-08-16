@@ -21,10 +21,10 @@
 	- "The problem you're trying to solve"
 	- The domain model is the mental map that business owners have of their businesses. Jargon arises naturally among people who are collaborating on complex systems.
 - Value Objects
-	- a domain object that is uniquely identified by the data it holds; usually immutable
+	- a domain object that is uniquely identified by the data it holds; usually immutable with `@frozen=True`
 	- For whenever we have a business concept that has data but no identity
 	- Using dataclasses
-		- dataclasses (or namedtuples) give us *value equality* with`@frozen=True`
+		- dataclasses (or namedtuples) give us *value equality*
 			- Two objects with identical values are *equal*.
 	- at sennder, this would be a Line Item. They cannot change.
 - Entities
