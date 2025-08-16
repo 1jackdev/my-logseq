@@ -1,4 +1,4 @@
--
+- Encapsulating behavior by using abstractions is a powerful tool for making code more expressive, more testable, and easier to maintain.
 -
 -
 - References
