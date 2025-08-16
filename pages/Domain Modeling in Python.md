@@ -26,8 +26,10 @@
 	- Using dataclasses
 		- dataclasses (or namedtuples) give us *value equality*
 			- Two objects with identical values are *equal*.
+	- at sennder, this would be a line item.
 - Entities
-	- can change values
+	- its values can change but remain the same object
+		- at sennder, a shipper price can change but a line item cannot
 	-
 	-
 - References
