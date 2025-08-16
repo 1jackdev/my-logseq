@@ -5,8 +5,12 @@
 	- High-level modules should not depend on low-level modules. Both should depend on abstractions.
 	- Abstractions should not depend on details. Instead, details should depend on abstractions.
 - High-level Modules
-	- code that are organization really cares about
+	- code that our organization really cares about
 		- at sennder, this is the code that creates and updates domain entities (SP, CC, fin docs)
+	- functions, classes, packages that deal with real-world concepts
+- Low-level Modules
+	- code that our organization really DOES NOT care about
+		- at sennder, this is the s3 client, launch darkly,
 -
 - References
 	- [[Message Bus Dynamic Docs]]
