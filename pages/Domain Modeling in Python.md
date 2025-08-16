@@ -6,6 +6,7 @@
 	- Abstractions should not depend on details. Instead, details should depend on abstractions.
 - High-level Modules
 	- code that are organization really cares about
+		- at sennder, this is the code that creates and updates domain entities (SP, CC, fin docs)
 -
 - References
 	- [[Message Bus Dynamic Docs]]
