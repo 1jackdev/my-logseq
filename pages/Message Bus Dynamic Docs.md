@@ -1,1 +1,2 @@
-- can we design a script that scans a repo and outputs a , starting with the message bus,
+- can we design a script that scans a repo and outputs a markdown file that describes the possible outcomes of each trigger?
+- Starting with the message bus, it should iterate over each message and event
