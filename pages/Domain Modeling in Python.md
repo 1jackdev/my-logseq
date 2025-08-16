@@ -1,6 +1,6 @@
 - Encapsulating behavior by using abstractions is a powerful tool for making code more expressive, more testable, and easier to maintain.
 - Layering
-	- Presentation Layer -> Business Logic -> Database Layer
+	- Presentation Layer -> Business Logic Layer (aka **Domain Model**) -> Database Layer
 - Dependency Inversion Principle
 	- High-level modules should not depend on low-level modules. Both should depend on abstractions.
 	- Abstractions should not depend on details. Instead, details should depend on abstractions.
@@ -17,6 +17,8 @@
 	- Should be easy to change without needing to change business logic.
 		- at sennder, if we migrate away from s3, we shouldn't need to change the business logic.
 	-
--
+- What is a Domain Model?
+	- "The problem you're trying to solve"
+	-
 - References
 	- [[Message Bus Dynamic Docs]]
