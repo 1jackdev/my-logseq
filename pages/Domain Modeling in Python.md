@@ -26,6 +26,7 @@
 		- at sennder, a line item in AR/AP
 	- Using dataclasses
 		- dataclasses (or namedtuples) give us *value equality*
-			- Two lines with identical values are *equal* .
+			- Two objects with identical values are *equal*.
+	-
 - References
 	- [[Message Bus Dynamic Docs]]
