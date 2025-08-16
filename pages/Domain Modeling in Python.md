@@ -1,6 +1,9 @@
 - Encapsulating behavior by using abstractions is a powerful tool for making code more expressive, more testable, and easier to maintain.
 - Layering
 	- Presentation Layer -> Business Logic -> Database Layer
+- Dependency Inversion Principle
+	- High-level modules should not depend on low-level modules. Both should depend on abstractions.
+	-
 -
 -
 - References
