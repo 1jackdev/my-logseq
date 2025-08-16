@@ -23,7 +23,6 @@
 - Value Objects
 	- For whenever we have a business concept that has data but no identity
 	- a domain object that is uniquely identified by the data it holds; usually immutable
-		- at sennder, a line item in AR/AP
 	- Using dataclasses
 		- dataclasses (or namedtuples) give us *value equality*
 			- Two objects with identical values are *equal*.
