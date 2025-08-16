@@ -15,7 +15,7 @@
 	- code that our organization really DOES NOT care about
 		- at sennder, this is the s3 client, launch darkly, whether we use lambda or http or kafka
 	- Should be easy to change without needing to change business logic.
-		- at sennder, if sqlalchemy becomes deprecated for some reason, we shouldn't need to change business logic.
+		- at sennder, if we migrate away from s3, we shouldn't need to change the business logic.
 	-
 -
 - References
