@@ -5,7 +5,7 @@
 	- High-level modules should not depend on low-level modules. Both should depend on abstractions.
 	- Abstractions should not depend on details. Instead, details should depend on abstractions.
 	- "Depends on" does not necessarily mean *imports* or *calls*. It just means that one module knows about or needs another module
-		- at sennder, the splitting module *depends on* the s3 client. It needs
+		- at sennder, the splitting module (creating documents) should not *depend on* the s3 client.
 - High-level Modules
 	- code that our organization really cares about
 		- at sennder, this is the code that creates and updates domain entities (SP, CC, fin docs)
