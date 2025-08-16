@@ -10,10 +10,12 @@
 	- code that our organization really cares about
 		- at sennder, this is the code that creates and updates domain entities (SP, CC, fin docs)
 	- functions, classes, packages that deal with real-world concepts
-	- Should be easy to change as business needs change
+	- Should be easy to change as business needs change. We don’t want business logic changes to slow down because they are closely coupled to low-level infrastructure details.
 - Low-level Modules
 	- code that our organization really DOES NOT care about
 		- at sennder, this is the s3 client, launch darkly, whether we use lambda or http or kafka
+	- Should be easy to change without needing to change business logic.
+		- at sennder, if sqlalchemy becomes deprecated for some reason, we shouldn't need to chaneg
 	-
 -
 - References
