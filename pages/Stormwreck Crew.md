@@ -1,5 +1,5 @@
 - [[Chapter 1: Dragons of Stormwreck Isle]]
--
+- [[Chapter 2: The City of Waterdeep]]
 -
 -
 - References

@@ -41,7 +41,34 @@
 :parentId "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
 :collapsedHeight 0
 :nonce 1755435161969}}
-:block/updated-at 1755435166430})
+:block/updated-at 1755435166430} 
+{:block/created-at 1755435338771
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "Chapter 2: The City of Waterdeep"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 92.99988321064649]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "76e447e0-7b69-11f0-b6a3-5346dbe80ef2"
+:noFill false
+:point [2984 1696]
+:parentId "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
+:collapsedHeight 0
+:nonce 1755435334496}}
+:block/updated-at 1755435338771})
 :pages (
 {:block/uuid #uuid "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
 :block/properties 
@@ -53,9 +80,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("100e98e0-7b69-11f0-b6a3-5346dbe80ef2")}}
+:shapes-index ("100e98e0-7b69-11f0-b6a3-5346dbe80ef2" "76e447e0-7b69-11f0-b6a3-5346dbe80ef2")}}
 :block/journal? false
-:block/updated-at 1755435166430
+:block/updated-at 1755435338771
 :block/created-at 1755434625797
 :block/type "whiteboard"
 :block/name "stormwreck crew board"
