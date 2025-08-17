@@ -1,6 +1,6 @@
 - [[Chapter 1: Dragons of Stormwreck Isle]]
 - [[Chapter 2: The City of Waterdeep]]
--
+- [[Chapter 3: Renbli Underground]]
 -
 -
 - References
