@@ -1,0 +1,2 @@
+- the players arrive, knowing that Jab's is being held in the [[Castle Waterdeep]]
+	-
