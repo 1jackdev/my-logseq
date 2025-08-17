@@ -1,45 +1,28 @@
 {:blocks (
-{:block/created-at 1755434901662
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "68a1ce81-b1ea-4728-9340-2517f62d1fe9"}
+:block/parent 
+{:block/uuid #uuid "68a1ce81-b1ea-4728-9340-2517f62d1fe9"}
 :block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 0
-:scale [1 1]
-:pageId "Stormwreck Crew"
-:scaleLevel "md"
-:fill ""
-:compact false
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 112.99999999999999]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "65e9c600-7b68-11f0-b6a3-5346dbe80ef2"
-:noFill false
-:point [2480 1624]
-:parentId "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
-:collapsedHeight 0
-:nonce 1755434876515}}
-:block/updated-at 1755434901662})
+{}
+:block/uuid #uuid "68a1d04b-02ed-4e4f-93b2-5f82afcc8fc7"})
 :pages (
 {:block/uuid #uuid "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
-:name "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
+:name "stormwreck crew board"
 :bindings 
 {}
 :nonce 1
 :assets []
-:shapes-index ("65e9c600-7b68-11f0-b6a3-5346dbe80ef2")}}
-:block/updated-at 1755434901662
+:shapes-index ()}}
+:block/journal? false
+:block/updated-at 1755435099908
 :block/created-at 1755434625797
 :block/type "whiteboard"
-:block/name "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
-:block/original-name "68a1ce81-b1ea-4728-9340-2517f62d1fe9"})}
+:block/name "stormwreck crew board"
+:block/original-name "stormwreck crew board"})}
