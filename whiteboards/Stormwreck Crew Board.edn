@@ -105,7 +105,7 @@
 :nonce 1755435436283
 :italic false}}
 :block/updated-at 1755435444655} 
-{:block/content "Chapter 3: Renbli"
+{:block/content "Chapter 3: Renbli Underground"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "68a1d062-3dd4-4f27-8655-fa62f8cc7fc1"}
@@ -114,33 +114,33 @@
 :block/properties 
 {}
 :block/uuid #uuid "68a1d1c3-2fcd-42ed-b3f9-54159b7ba028"} 
-{:block/created-at 1755435459412
+{:block/created-at 1755435514009
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
-{:blockType "B"
+{:blockType "P"
 :stroke ""
 :collapsed false
 :borderRadius 8
 :index 3
 :scale [1 1]
-:pageId "68a1d1c3-2fcd-42ed-b3f9-54159b7ba028"
+:pageId "Chapter 3: Renbli Underground"
 :scaleLevel "md"
 :fill ""
-:compact true
+:compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.999976596802675]
+:size [400 112.99997339948376]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "bfac0670-7b69-11f0-b6a3-5346dbe80ef2"
+:id "dc008710-7b69-11f0-b6a3-5346dbe80ef2"
 :noFill false
-:point [4064 1336]
+:point [3728 1592]
 :parentId "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
 :collapsedHeight 0
-:nonce 1755435456601}}
-:block/updated-at 1755435459412})
+:nonce 1755435504131}}
+:block/updated-at 1755435514009})
 :pages (
 {:block/uuid #uuid "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
 :block/properties 
@@ -167,9 +167,9 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("100e98e0-7b69-11f0-b6a3-5346dbe80ef2" "a7835530-7b69-11f0-b6a3-5346dbe80ef2" "b3866fc2-7b69-11f0-b6a3-5346dbe80ef2" "bfac0670-7b69-11f0-b6a3-5346dbe80ef2")}}
+:shapes-index ("100e98e0-7b69-11f0-b6a3-5346dbe80ef2" "a7835530-7b69-11f0-b6a3-5346dbe80ef2" "b3866fc2-7b69-11f0-b6a3-5346dbe80ef2" "dc008710-7b69-11f0-b6a3-5346dbe80ef2")}}
 :block/journal? false
-:block/updated-at 1755435465511
+:block/updated-at 1755435514009
 :block/created-at 1755434625797
 :block/type "whiteboard"
 :block/name "stormwreck crew board"
