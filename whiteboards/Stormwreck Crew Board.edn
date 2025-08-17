@@ -15,7 +15,7 @@
 :block/parent 
 {:block/uuid #uuid "68a1ce81-b1ea-4728-9340-2517f62d1fe9"}
 :block/uuid #uuid "68a1d062-3dd4-4f27-8655-fa62f8cc7fc1"} 
-{:block/created-at 1755435166430
+{:block/created-at 1755435387537
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -23,7 +23,7 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 0
+:index 1
 :scale [1 1]
 :pageId "Chapter 1: Dragons of Stormwreck Isle"
 :scaleLevel "md"
@@ -41,8 +41,8 @@
 :parentId "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
 :collapsedHeight 0
 :nonce 1755435161969}}
-:block/updated-at 1755435166430} 
-{:block/created-at 1755435338771
+:block/updated-at 1755435387537} 
+{:block/created-at 1755435387537
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -50,25 +50,26 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 1
+:index 0
 :scale [1 1]
-:pageId "Chapter 2: The City of Waterdeep"
+:pageId "Chapter 1: Dragons of Stormwreck Isle"
 :scaleLevel "md"
 :fill ""
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 92.99988321064649]
+:size [400 113.00010866567466]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "76e447e0-7b69-11f0-b6a3-5346dbe80ef2"
+:id "927b9300-7b69-11f0-b6a3-5346dbe80ef2"
 :noFill false
-:point [2984 1696]
+:isLocked false
+:point [3245.927334130208 1654.010474854811]
 :parentId "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
 :collapsedHeight 0
-:nonce 1755435334496}}
-:block/updated-at 1755435338771})
+:nonce 1755435380785}}
+:block/updated-at 1755435387537})
 :pages (
 {:block/uuid #uuid "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
 :block/properties 
@@ -80,9 +81,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("100e98e0-7b69-11f0-b6a3-5346dbe80ef2" "76e447e0-7b69-11f0-b6a3-5346dbe80ef2")}}
+:shapes-index ("927b9300-7b69-11f0-b6a3-5346dbe80ef2" "100e98e0-7b69-11f0-b6a3-5346dbe80ef2")}}
 :block/journal? false
-:block/updated-at 1755435338771
+:block/updated-at 1755435387536
 :block/created-at 1755434625797
 :block/type "whiteboard"
 :block/name "stormwreck crew board"
