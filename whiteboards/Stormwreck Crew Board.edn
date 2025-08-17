@@ -7,7 +7,14 @@
 {:block/uuid #uuid "68a1ce81-b1ea-4728-9340-2517f62d1fe9"}
 :block/properties 
 {}
-:block/uuid #uuid "68a1d04b-02ed-4e4f-93b2-5f82afcc8fc7"})
+:block/uuid #uuid "68a1d04b-02ed-4e4f-93b2-5f82afcc8fc7"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "68a1d04b-02ed-4e4f-93b2-5f82afcc8fc7"}
+:block/parent 
+{:block/uuid #uuid "68a1ce81-b1ea-4728-9340-2517f62d1fe9"}
+:block/uuid #uuid "68a1d062-3dd4-4f27-8655-fa62f8cc7fc1"})
 :pages (
 {:block/uuid #uuid "68a1ce81-b1ea-4728-9340-2517f62d1fe9"
 :block/properties 
@@ -21,7 +28,7 @@
 :assets []
 :shapes-index ()}}
 :block/journal? false
-:block/updated-at 1755435099908
+:block/updated-at 1755435109201
 :block/created-at 1755434625797
 :block/type "whiteboard"
 :block/name "stormwreck crew board"
